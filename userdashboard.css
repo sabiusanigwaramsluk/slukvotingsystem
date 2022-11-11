@@ -1,0 +1,74 @@
+*{
+
+	font-family:serif;
+
+}
+h1{
+	margin-top: 6px;
+	position: relative;
+
+
+}
+.container{
+	
+	height: 1000px;
+	width: 100%;
+
+}
+body{
+ color: green;
+}
+.btn{
+	color: blue;
+	background-color: red;
+	border-radius: 12px;
+	padding: 5px;
+	border-color: white;
+
+
+}
+.group-box1{
+	width:75%;
+	height: 1000px;
+
+	float: ri;
+
+
+
+	padding-bottom: 30px;
+}
+.userbax{
+	
+	position: absolute;
+	width: 25%;
+	height: 1000px;
+	left: 75%;
+
+}
+img{
+	width: 100px;
+	height: 100px;
+	
+	margin-top: 12px;
+}
+.group{
+	float: lef;
+}
+.userProfiles{
+	color: black;
+margin-top: 60px;
+}
+.groupProfile{
+	margin-top: 20px ;
+	color: black;
+}
+p{
+	text-align: center;
+	text-decoration: underline;
+}
+.text-success{
+	color: green;
+}
+.text-danger{
+	color: red;
+}
